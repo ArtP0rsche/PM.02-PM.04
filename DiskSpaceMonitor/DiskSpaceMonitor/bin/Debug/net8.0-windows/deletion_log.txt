@@ -1,0 +1,154 @@
+﻿[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\catalog.json | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\dd_vcredist_amd64_20260412110418.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\dd_vcredist_x86_20260412110419.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260404-2319.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260406-1615.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260406-1618.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260406-1620.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260406-1632.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260406-1758.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260406-1805.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260406-1827.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260406-1959.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260407-0908.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260407-0911.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260407-0911a.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260407-0913.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260407-0929.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260407-0938.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260407-1631.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260407-1641.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260407-1804.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260407-2011.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260408-0018.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260408-0927.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260408-0930.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260408-0932.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260408-0949.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260408-1432.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260408-1434.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260408-1506.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260408-1519.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260408-1633.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260408-1655.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260408-1804.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260408-1816.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260408-1852.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260409-0903.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260409-0906.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260409-0927.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260409-0930.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260409-0931.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260409-0947.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260409-0954.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260409-1007.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260409-1820.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260409-1831.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260409-1913.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260409-1935.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260409-2022.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260409-2033.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260409-2130.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260409-2326.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260409-2350.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260410-0027.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260410-0053.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260410-1554.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260410-1557.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260410-1557a.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260410-1600.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260410-1740.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260410-1809.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260410-1906.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260410-1929.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260410-2045.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260411-1421.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260411-1421a.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260411-1424.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260411-1434.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260411-1557.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260412-1055.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260412-1055a.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260412-1055b.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260412-1057.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260412-1102.log | Пользователь: Ghost
+[14.04.2026 15:04:28] ОШИБКА УДАЛЕНИЯ: C:\Windows\Temp\DESKTOP-9BDV6A0-20260412-1103.log | Причина: Файл используется системой
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260412-1104.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260412-1104a.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260412-1131.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260412-1330.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260412-1409.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260412-1554.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260412-1619.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260412-1712.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260412-1718.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260412-1837.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260412-2323.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260413-0911.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260413-0914.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260413-0917.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260413-0937.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260413-0956.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260413-1209.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260413-1209a.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260413-1236.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260413-1509.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260413-1813.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260413-1855.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260413-1925.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260414-0848.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260414-0848a.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260414-0850.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260414-0914.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260414-0920.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\DESKTOP-9BDV6A0-20260414-1304.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\FXSAPIDebugLogFile.txt | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\FXSTIFFDebugLogFile.txt | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\lpksetup-20260407-163119-0.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\lpksetup-20260410-174044-0.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\lpksetup-20260413-150929-0.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\MpCmdRun.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\MpSigStub.log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\perfboost.exe_c2rdll(202604121103543C14).log | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\{2CBB7B70-E370-453D-BA7C-8B0D7EFCE2D4} - OProcSessId.dat | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\{46E708B2-FA17-4FC9-AFEF-F1CEDE30586F} - OProcSessId.dat | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\{4705AF09-B801-4E28-8FEF-F4C62D9A0594} - OProcSessId.dat | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\{A60287E5-83F3-4A25-8191-0F0D023FC5F1} - OProcSessId.dat | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\{A9772EA9-18C3-4D6C-8CEF-C6A143890DB7} - OProcSessId.dat | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\{B6C6B57F-E304-4DF8-8519-76EC613C94D5} - OProcSessId.dat | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\{B77033C2-92E3-4980-8A14-E042BAA94028} - OProcSessId.dat | Пользователь: Ghost
+[14.04.2026 15:04:28] ОШИБКА УДАЛЕНИЯ: C:\Windows\Temp\SDIAG_451c2242-6205-40b5-a532-c4349091940f | Причина: У вас недостаточно прав
+[14.04.2026 15:04:28] ОШИБКА УДАЛЕНИЯ: C:\Windows\Temp\WinSAT | Причина: У вас недостаточно прав
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\_273DAFAD-3724-4AD9-AB06-62C2E207A88D | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\_797A7D20-DD49-4CFC-B55E-0C8CBD63E3D6 | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\_A9643136-CD1B-461B-A105-C04D126A75DB | Пользователь: Ghost
+[14.04.2026 15:04:28] УДАЛЕНО: C:\Windows\Temp\_E2CCAABB-4D75-4847-8A23-F5A315C611E8 | Пользователь: Ghost
+[14.04.2026 15:05:53] ОШИБКА УДАЛЕНИЯ: C:\Users\Артём\AppData\Local\Temp\27dff1d0-e6c3-44f1-8f5f-60c386bca68d.tmp | Причина: Файл используется системой
+[14.04.2026 15:05:53] ОШИБКА УДАЛЕНИЯ: C:\Users\Артём\AppData\Local\Temp\29c9e212-d5b6-4103-81b0-2ce81e639503.tmp | Причина: Файл используется системой
+[14.04.2026 15:05:53] ОШИБКА УДАЛЕНИЯ: C:\Users\Артём\AppData\Local\Temp\319065f9-e454-404d-b5a7-88fdcdd07570.tmp | Причина: Файл используется системой
+[14.04.2026 15:05:53] ОШИБКА УДАЛЕНИЯ: C:\Users\Артём\AppData\Local\Temp\364e4b06-1f0b-4d54-9268-6bf3bbbdbe6a.tmp | Причина: Файл используется системой
+[14.04.2026 15:05:53] ОШИБКА УДАЛЕНИЯ: C:\Users\Артём\AppData\Local\Temp\3ca32f0d-12cd-4777-9314-49dab175d2b2.tmp | Причина: Файл используется системой
+[14.04.2026 15:05:53] ОШИБКА УДАЛЕНИЯ: C:\Users\Артём\AppData\Local\Temp\518a2458-4ec4-4cd3-bfb9-8f65ebc87df4.tmp | Причина: Файл используется системой
+[14.04.2026 15:05:53] ОШИБКА УДАЛЕНИЯ: C:\Users\Артём\AppData\Local\Temp\57c30bcf-e7e2-4bef-bff9-3c9e5b82e8f7.tmp | Причина: Файл используется системой
+[14.04.2026 15:05:53] ОШИБКА УДАЛЕНИЯ: C:\Users\Артём\AppData\Local\Temp\58d9a1e0-e830-422f-b3f7-1e703cc8636b.tmp | Причина: Файл используется системой
+[14.04.2026 15:05:53] ОШИБКА УДАЛЕНИЯ: C:\Users\Артём\AppData\Local\Temp\58fb2189-a14b-46a5-a04a-26476008f893.tmp | Причина: Файл используется системой
+[14.04.2026 15:05:53] ОШИБКА УДАЛЕНИЯ: C:\Users\Артём\AppData\Local\Temp\5c9cea79-9f2e-4fce-9cbb-75c469eac3e7.tmp | Причина: Файл используется системой
+[14.04.2026 15:05:53] ОШИБКА УДАЛЕНИЯ: C:\Users\Артём\AppData\Local\Temp\6c64c4cd-9b00-451d-bdaa-4ffd93b7d1b2.tmp | Причина: Файл используется системой
+[14.04.2026 15:05:53] ОШИБКА УДАЛЕНИЯ: C:\Users\Артём\AppData\Local\Temp\74b4eac5-78a2-4d49-8f1d-1b3542b42fc1.tmp | Причина: Файл используется системой
+[14.04.2026 15:05:53] ОШИБКА УДАЛЕНИЯ: C:\Users\Артём\AppData\Local\Temp\80968893-1e46-4503-9e11-a1052d85a114.tmp | Причина: Файл используется системой
+[14.04.2026 15:05:53] ОШИБКА УДАЛЕНИЯ: C:\Users\Артём\AppData\Local\Temp\8e1be383-a2e2-4352-bf8e-a23ad0fc1620.tmp | Причина: Файл используется системой
+[14.04.2026 15:05:53] ОШИБКА УДАЛЕНИЯ: C:\Users\Артём\AppData\Local\Temp\992c8aa5-eec3-4943-83ab-5a200bd92c7b.tmp | Причина: Файл используется системой
+[14.04.2026 15:05:53] ОШИБКА УДАЛЕНИЯ: C:\Users\Артём\AppData\Local\Temp\aff2e38c-4ce4-4d40-b074-f5fd6dc3e992.tmp | Причина: Файл используется системой
+[14.04.2026 15:05:53] ОШИБКА УДАЛЕНИЯ: C:\Users\Артём\AppData\Local\Temp\bb514834-03b4-45d4-b553-5bde90aa7a22.tmp | Причина: Файл используется системой
+[14.04.2026 15:05:53] ОШИБКА УДАЛЕНИЯ: C:\Users\Артём\AppData\Local\Temp\bc704bcf-d759-4752-b65b-f1c8f775b548.tmp | Причина: Файл используется системой
+[14.04.2026 15:05:53] УДАЛЕНО: C:\Users\Артём\AppData\Local\Temp\cv_debug.log | Пользователь: Ghost
+[14.04.2026 15:05:53] ОШИБКА УДАЛЕНИЯ: C:\Users\Артём\AppData\Local\Temp\d9081b35-4cee-43a6-a42a-10c07b6a0b4d.tmp | Причина: Файл используется системой
+[14.04.2026 15:05:53] ОШИБКА УДАЛЕНИЯ: C:\Users\Артём\AppData\Local\Temp\e9e82ef3-abdd-46b3-8917-21e49248d639.tmp | Причина: Файл используется системой
+[14.04.2026 15:05:53] ОШИБКА УДАЛЕНИЯ: C:\Users\Артём\AppData\Local\Temp\f4b52026-a851-4903-acd2-6bcfdc1cd3b2.tmp | Причина: Файл используется системой
+[14.04.2026 15:05:53] ОШИБКА УДАЛЕНИЯ: C:\Users\Артём\AppData\Local\Temp\f98597c9-65bc-4cca-bc60-27b3cad78cda.tmp | Причина: Файл используется системой
+[14.04.2026 15:05:53] ОШИБКА УДАЛЕНИЯ: C:\Users\Артём\AppData\Local\Temp\fb9a5f8e-5e41-411c-ae47-eac7e05659bb.tmp | Причина: Файл используется системой
+[14.04.2026 15:05:53] ОШИБКА УДАЛЕНИЯ: C:\Users\Артём\AppData\Local\Temp\1A8F5F78-38A8-4F03-8562-86ED63EF8EEE | Причина: У вас недостаточно прав
+[14.04.2026 15:05:53] ОШИБКА УДАЛЕНИЯ: C:\Users\Артём\AppData\Local\Temp\1A8F5F78-38A8-4F03-8562-86ED63EF8EEE.scratch | Причина: У вас недостаточно прав
+[14.04.2026 15:05:53] ОШИБКА УДАЛЕНИЯ: C:\Users\Артём\AppData\Local\Temp\449112A6-7F49-4AFB-835A-AFC948531E28 | Причина: У вас недостаточно прав
+[14.04.2026 15:05:53] ОШИБКА УДАЛЕНИЯ: C:\Users\Артём\AppData\Local\Temp\449112A6-7F49-4AFB-835A-AFC948531E28.scratch | Причина: У вас недостаточно прав
+[14.04.2026 15:05:53] ОШИБКА УДАЛЕНИЯ: C:\Users\Артём\AppData\Local\Temp\dh | Причина: У вас недостаточно прав

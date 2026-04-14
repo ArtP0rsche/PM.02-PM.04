@@ -1,0 +1,77 @@
+﻿<Window x:Class="DiskSpaceMonitor.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DiskSpaceMonitor"
+        mc:Ignorable="d"
+        Title="Мониторинг дискового пространства" Height="450" Width="800" WindowStartupLocation="CenterScreen">
+    <Window.Resources>
+        <local:FreeSpaceColorConverter x:Key="FreeSpaceColorConverter"/>
+    </Window.Resources>
+    <TabControl Background="LightBlue">
+        <TabItem Header="Монитор ресурсов">
+            <Grid Margin="10">
+                <DataGrid x:Name="disksDataGrid" AutoGenerateColumns="False" CanUserAddRows="False" IsReadOnly="True">
+                    <DataGrid.ContextMenu>
+                        <ContextMenu>
+                            <MenuItem x:Name="openInExplorerMenuItem" Header="Открыть в проводнике" Click="OpenInExplorerMenuItem_Click"/>
+                            <Separator/>
+                            <MenuItem x:Name="showPropertiesMenuItem" Header="Свойства" Click="ShowPropertiesMenuItem_Click"/>
+                        </ContextMenu>
+                    </DataGrid.ContextMenu>
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="Диск" Binding="{Binding Name}" Width="80"/>
+                        <DataGridTextColumn Header="Тип" Binding="{Binding DriveType}" Width="120"/>
+                        <DataGridTextColumn Header="Общий размер" Binding="{Binding TotalSizeGB}" Width="100"/>
+                        <DataGridTextColumn Header="Свободно" Binding="{Binding FreeSpaceGB}" Width="100"/>
+                        <DataGridTextColumn Header="Занято" Binding="{Binding UsedSpaceGB}" Width="100"/>
+                        <DataGridTextColumn Header="Свободно, %" Binding="{Binding FreePercent, StringFormat={}{0:F2} %}" Width="100"/>
+                        <DataGridTemplateColumn Header="Прогресс" Width="*">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <ProgressBar Value="{Binding FreePercent}" Minimum="0" Maximum="100">
+                                        <ProgressBar.Style>
+                                            <Style TargetType="ProgressBar">
+                                                <Setter Property="Foreground" Value="{Binding FreePercent, Converter={StaticResource FreeSpaceColorConverter}}"/>
+                                            </Style>
+                                        </ProgressBar.Style>
+                                    </ProgressBar>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                    </DataGrid.Columns>
+                </DataGrid>
+                <Button x:Name="refreshButton" Content="Обновить" Click="RefreshButton_Click" HorizontalAlignment="Right"
+                        VerticalAlignment="Bottom" Margin="0 0 10 10" Width="80" Height="25"/>
+            </Grid>
+        </TabItem>
+        <TabItem Header="Очистка диска">
+            <Grid Margin="10">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <StackPanel Grid.Row="0" Orientation="Horizontal" Margin="0 0 0 10">
+                    <Label Content="Папка для очистки: " VerticalAlignment="Center" Margin="0 0 10 0"/>
+                    <ComboBox x:Name="tempFoldersComboBox" SelectedIndex="0" Width="300" SelectionChanged="TempFoldersComboBox_SelectionChanged"/>
+                </StackPanel>
+                <Button x:Name="refreshListButton" Content="Обновить список" Click="RefreshListButton_Click" Width="100" HorizontalAlignment="Right" VerticalAlignment="Top" Height="22.5" Margin="10 0"/>
+                <DataGrid x:Name="tempFilesDataGrid" Grid.Row="1" AutoGenerateColumns="False" CanUserAddRows="False">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="Имя файла" Binding="{Binding Name}" Width="*"/>
+                        <DataGridTextColumn Header="Размер" Binding="{Binding Size}" Width="100"/>
+                        <DataGridTextColumn Header="Дата изменения" Binding="{Binding LastWriteTime}" Width="120"/>
+                    </DataGrid.Columns>
+                </DataGrid>
+                <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Right" Margin="0 10 0 0">
+                    <Label Content="Общий объём: "/>
+                    <Label x:Name="totalSizeLabel" VerticalAlignment="Center" Margin="0 0 20 0"/>
+                    <Button x:Name="deleteSelectedButton" Content="Удалить выбранные" Click="DeleteSelectedButton_Click" Width="120" Margin="0 0 10 0"/>
+                    <Button x:Name="deleteAllButton" Content="Удалить всё" Click="DeleteAllButton_Click" Width="120"/>
+                </StackPanel>
+            </Grid>
+        </TabItem>
+    </TabControl>
+</Window>
