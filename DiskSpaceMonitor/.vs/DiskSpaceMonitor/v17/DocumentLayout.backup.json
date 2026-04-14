@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "D:\\\u0423\u0447\u0451\u0431\u0430\\\u041F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F\\DiskSpaceMonitor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2BD6E54F-F48E-49C6-AEF9-B13738289398}|DiskSpaceMonitor\\DiskSpaceMonitor.csproj|d:\\\u0443\u0447\u0451\u0431\u0430\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F\\diskspacemonitor\\diskspacemonitor\\filedeletionlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BD6E54F-F48E-49C6-AEF9-B13738289398}|DiskSpaceMonitor\\DiskSpaceMonitor.csproj|solutionrelative:diskspacemonitor\\filedeletionlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2BD6E54F-F48E-49C6-AEF9-B13738289398}|DiskSpaceMonitor\\DiskSpaceMonitor.csproj|d:\\\u0443\u0447\u0451\u0431\u0430\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F\\diskspacemonitor\\diskspacemonitor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2BD6E54F-F48E-49C6-AEF9-B13738289398}|DiskSpaceMonitor\\DiskSpaceMonitor.csproj|solutionrelative:diskspacemonitor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2BD6E54F-F48E-49C6-AEF9-B13738289398}|DiskSpaceMonitor\\DiskSpaceMonitor.csproj|d:\\\u0443\u0447\u0451\u0431\u0430\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F\\diskspacemonitor\\diskspacemonitor\\freespacecolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BD6E54F-F48E-49C6-AEF9-B13738289398}|DiskSpaceMonitor\\DiskSpaceMonitor.csproj|solutionrelative:diskspacemonitor\\freespacecolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2BD6E54F-F48E-49C6-AEF9-B13738289398}|DiskSpaceMonitor\\DiskSpaceMonitor.csproj|d:\\\u0443\u0447\u0451\u0431\u0430\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F\\diskspacemonitor\\diskspacemonitor\\diskinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD6E54F-F48E-49C6-AEF9-B13738289398}|DiskSpaceMonitor\\DiskSpaceMonitor.csproj|solutionrelative:diskspacemonitor\\diskinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2BD6E54F-F48E-49C6-AEF9-B13738289398}|DiskSpaceMonitor\\DiskSpaceMonitor.csproj|d:\\\u0443\u0447\u0451\u0431\u0430\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F\\diskspacemonitor\\diskspacemonitor\\tempfileinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2BD6E54F-F48E-49C6-AEF9-B13738289398}|DiskSpaceMonitor\\DiskSpaceMonitor.csproj|solutionrelative:diskspacemonitor\\tempfileinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2BD6E54F-F48E-49C6-AEF9-B13738289398}|DiskSpaceMonitor\\DiskSpaceMonitor.csproj|d:\\\u0443\u0447\u0451\u0431\u0430\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F\\diskspacemonitor\\diskspacemonitor\\diskinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BD6E54F-F48E-49C6-AEF9-B13738289398}|DiskSpaceMonitor\\DiskSpaceMonitor.csproj|solutionrelative:diskspacemonitor\\diskinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2BD6E54F-F48E-49C6-AEF9-B13738289398}|DiskSpaceMonitor\\DiskSpaceMonitor.csproj|d:\\\u0443\u0447\u0451\u0431\u0430\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F\\diskspacemonitor\\diskspacemonitor\\filedeletionlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD6E54F-F48E-49C6-AEF9-B13738289398}|DiskSpaceMonitor\\DiskSpaceMonitor.csproj|solutionrelative:diskspacemonitor\\filedeletionlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD6E54F-F48E-49C6-AEF9-B13738289398}|DiskSpaceMonitor\\DiskSpaceMonitor.csproj|d:\\\u0443\u0447\u0451\u0431\u0430\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F\\diskspacemonitor\\diskspacemonitor\\freespacecolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD6E54F-F48E-49C6-AEF9-B13738289398}|DiskSpaceMonitor\\DiskSpaceMonitor.csproj|solutionrelative:diskspacemonitor\\freespacecolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "FileDeletionLogger.cs",
               "DocumentMoniker": "D:\\\u0423\u0447\u0451\u0431\u0430\\\u041F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F\\DiskSpaceMonitor\\DiskSpaceMonitor\\FileDeletionLogger.cs",
               "RelativeDocumentMoniker": "DiskSpaceMonitor\\FileDeletionLogger.cs",
@@ -42,12 +42,11 @@
               "RelativeToolTip": "DiskSpaceMonitor\\FileDeletionLogger.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T11:25:42.24Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T11:25:42.24Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "FreeSpaceColorConverter.cs",
               "DocumentMoniker": "D:\\\u0423\u0447\u0451\u0431\u0430\\\u041F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F\\DiskSpaceMonitor\\DiskSpaceMonitor\\FreeSpaceColorConverter.cs",
               "RelativeDocumentMoniker": "DiskSpaceMonitor\\FreeSpaceColorConverter.cs",
@@ -55,12 +54,11 @@
               "RelativeToolTip": "DiskSpaceMonitor\\FreeSpaceColorConverter.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T14:39:28.349Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-13T14:39:28.349Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "TempFileInfo.cs",
               "DocumentMoniker": "D:\\\u0423\u0447\u0451\u0431\u0430\\\u041F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F\\DiskSpaceMonitor\\DiskSpaceMonitor\\TempFileInfo.cs",
               "RelativeDocumentMoniker": "DiskSpaceMonitor\\TempFileInfo.cs",
@@ -72,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "DiskInfo.cs",
               "DocumentMoniker": "D:\\\u0423\u0447\u0451\u0431\u0430\\\u041F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F\\DiskSpaceMonitor\\DiskSpaceMonitor\\DiskInfo.cs",
               "RelativeDocumentMoniker": "DiskSpaceMonitor\\DiskInfo.cs",
@@ -84,13 +82,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\\u0423\u0447\u0451\u0431\u0430\\\u041F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F\\DiskSpaceMonitor\\DiskSpaceMonitor\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "DiskSpaceMonitor\\MainWindow.xaml.cs",
               "ToolTip": "D:\\\u0423\u0447\u0451\u0431\u0430\\\u041F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F\\DiskSpaceMonitor\\DiskSpaceMonitor\\MainWindow.xaml.cs",
               "RelativeToolTip": "DiskSpaceMonitor\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAJYAAAAAAAAAAADwv/sAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPMAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-12T09:20:46.437Z",
               "EditorCaption": ""

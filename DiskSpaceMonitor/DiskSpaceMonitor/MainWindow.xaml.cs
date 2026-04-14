@@ -232,6 +232,19 @@ namespace DiskSpaceMonitor
             {
 
             }
+
+            if (tempFilesDataGrid.HasItems)
+            {
+                notAvailableTextBlock.Visibility = Visibility.Collapsed;
+                deleteSelectedButton.IsEnabled = true;
+                deleteAllButton.IsEnabled = true;
+            }
+            else
+            {
+                notAvailableTextBlock.Visibility = Visibility.Visible;
+                deleteSelectedButton.IsEnabled = false;
+                deleteAllButton.IsEnabled = false;
+            }
         }
 
         private string FormatFileSize(long bytes)
