@@ -20,3 +20,4 @@ D:\Учёба\Производственная\DiskSpaceMonitor\DiskSpaceMonitor
 D:\Учёба\Производственная\DiskSpaceMonitor\DiskSpaceMonitor\obj\Debug\net8.0-windows\ref\DiskSpaceMonitor.dll
 D:\Учёба\Производственная\DiskSpaceMonitor\DiskSpaceMonitor\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
 D:\Учёба\Производственная\DiskSpaceMonitor\DiskSpaceMonitor\obj\Debug\net8.0-windows\App.baml
+D:\Учёба\Производственная\DiskSpaceMonitor\DiskSpaceMonitor\obj\Debug\net8.0-windows\DiskSpaceMonitor_Content.g.cs

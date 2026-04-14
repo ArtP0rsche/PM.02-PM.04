@@ -80,8 +80,8 @@ namespace DiskSpaceMonitor
                     }
                     catch
                     {
-                        _logger.LogFailure(file.FullPath, $"Файл используется системой или у вас недостаточно прав");
-                        MessageBox.Show($"Не удалось удалить файл {file.Name}: файл используется системой или у вас недостаточно прав",
+                        _logger.LogFailure(file.FullPath, $"Файл используется системой");
+                        MessageBox.Show($"Не удалось удалить файл {file.Name}: файл используется системой",
                             "Ошибка удаления", MessageBoxButton.OK, MessageBoxImage.Warning);
                     }
                     LoadTempFiles(tempFoldersComboBox.SelectedItem.ToString());
@@ -110,6 +110,7 @@ namespace DiskSpaceMonitor
                         }
                         catch (UnauthorizedAccessException) { }
                     }
+                    MessageBox.Show("Часть временных файлов была удалена успешно", "Успех", MessageBoxButton.OK, MessageBoxImage.Information);
 
                     foreach (var dirPath in Directory.GetDirectories(folderPath))
                     {
@@ -124,10 +125,7 @@ namespace DiskSpaceMonitor
                         }
                     }
                 }
-                catch
-                {
-                    MessageBox.Show("Часть временных файлов была удалена успешно", "Успех", MessageBoxButton.OK, MessageBoxImage.Information);
-                }
+                catch { }
                 LoadTempFiles(tempFoldersComboBox.SelectedItem.ToString());
             }
         }

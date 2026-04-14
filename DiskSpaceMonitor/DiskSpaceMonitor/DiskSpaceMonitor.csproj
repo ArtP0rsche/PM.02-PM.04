@@ -7,6 +7,11 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <UseWPF>true</UseWPF>
     <NoWin32Manifest>true</NoWin32Manifest>
+    <ApplicationIcon>disk.ico</ApplicationIcon>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="disk.ico" />
+  </ItemGroup>
 
 </Project>
